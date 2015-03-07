@@ -6,3 +6,6 @@
 
 ##shell
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)，文艺编程员必备的shell。
+
+##python
+- [PYTHON资源入口汇总](http://www.wklken.me/posts/2013/08/27/python-sources.html)
