@@ -16,3 +16,6 @@
 ## C++
 - [ccv](https://github.com/liuliu/ccv), C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 - [Theano](https://github.com/Theano/Theano), 很多python的CNN都用到了这个包。
+
+## 优秀博客
+- [pluskid](http://freemind.pluskid.org/), 里面对算法的分析很到位。
