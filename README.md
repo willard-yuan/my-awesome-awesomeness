@@ -12,6 +12,7 @@
 - [OverFeat](https://github.com/sermanet/OverFeat), OverFeat is a Convolutional Network-based image classifier and feature extractor.
 - [noccn](https://github.com/dnouri/noccn), Utilities for Alex Krizhevsky's cuda-convnet.
 - [morb](https://github.com/benanne/morb), Modular Restricted Boltzmann Machine (RBM) implementation using Theano.
+- [pylearn2](https://github.com/lisa-lab/pylearn2), A Machine Learning library based on Theano.
 
 ## C++
 - [ccv](https://github.com/liuliu/ccv), C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
