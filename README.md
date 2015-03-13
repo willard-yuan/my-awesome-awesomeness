@@ -20,3 +20,9 @@
 
 ## 优秀博客
 - [pluskid](http://freemind.pluskid.org/), 里面对算法的分析很到位。
+
+## HTML5 app框架
+- [ionic](https://github.com/driftyco/ionic), Advanced HTML5 mobile development framework and SDK. Build incredible hybrid apps with web technologies you already know and love. Best friends with AngularJS.
+- [ionicons](https://github.com/driftyco/ionicons), The premium icon font for Ionic.
+- [generator-ionic](https://github.com/diegonetto/generator-ionic)(Build hybrid mobile apps using the Ionic Framework).
+- [ionic-site](https://github.com/driftyco/ionic-site), Repo for the ionicframework.com site.
