@@ -20,6 +20,7 @@
 
 ## 优秀博客
 - [pluskid](http://freemind.pluskid.org/), 里面对算法的分析很到位。
+- [Liang Bo Wang](http://blog.liang2.tw/)，技术博客。
 
 ## HTML5 app框架
 - [ionic](https://github.com/driftyco/ionic), Advanced HTML5 mobile development framework and SDK. Build incredible hybrid apps with web technologies you already know and love. Best friends with AngularJS.
