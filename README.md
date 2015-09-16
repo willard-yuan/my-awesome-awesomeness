@@ -33,6 +33,7 @@
 
 ## OS X
 - [alfred-workflows](https://github.com/willfarrell/alfred-workflows)，alfred，好东西。
+- [https://github.com/iCHAIT/awesome-osx](awesome-osx), A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
 ### Jekyll主题
 - [so-simple-theme](https://github.com/mmistakes/so-simple-theme), A simple and clean responsive Jekyll theme for words and photos.
