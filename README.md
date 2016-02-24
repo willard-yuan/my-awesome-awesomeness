@@ -7,6 +7,9 @@
 ##shell
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)，文艺编程员必备的shell。
 
+##歌曲
+- 搬砖怎么没有歌？[awesome-music-for-programming](https://github.com/Yaoshicn/awesome-music-for-programming)
+
 ##python
 - [PYTHON资源入口汇总](http://www.wklken.me/posts/2013/08/27/python-sources.html)
 - [OverFeat](https://github.com/sermanet/OverFeat), OverFeat is a Convolutional Network-based image classifier and feature extractor.
