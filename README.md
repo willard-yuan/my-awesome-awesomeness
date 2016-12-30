@@ -149,3 +149,8 @@
 ### 图像检索之哈希
 - [mih](https://github.com/norouzi/mih), Fast exact nearest neighbor search in Hamming distance on binary codes with Multi-index hashing.
 - [min-loss-hashing](https://github.com/marklar/min-loss-hashing), matlab版及Python版的LSH.
+
+### OCR
+
+[端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
+[基于Lstm、CTC的验证码识别](http://ranjun.me/2016/08/17/ocr-recaptcha/)
