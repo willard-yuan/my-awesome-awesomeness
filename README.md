@@ -1,4 +1,45 @@
-# my-awesome-awesomeness
+# 个人使用资源汇总
+
+### 图像特征提取
+- [fishercaffe](https://github.com/MartinHjelm/fishercaffe), C++ training and testing code for an SVM using Vlfeat fisher vectors together with possible other features.
+- [DBow3](https://github.com/rmsalinas/DBow3), Improved version of DBow2.
+
+### 图像检索之哈希
+- [FALCONN](https://github.com/FALCONN-LIB/FALCONN), LSH哈希，数据依赖实现方法，目前不支持数据动态插入。
+- [mih](https://github.com/norouzi/mih), Fast exact nearest neighbor search in Hamming distance on binary codes with Multi-index hashing.
+- [min-loss-hashing](https://github.com/marklar/min-loss-hashing), matlab版及Python版的LSH.
+- [E2LSH](http://www.mit.edu/~andoni/LSH/), LSH Algorithm and Implementation.
+- [nmslib](https://github.com/searchivarius/nmslib), Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+
+### 图像检索之PQ
+- [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan). The PQ Fast Scan project is a C++11 implementation of fast vector scanning techniques for nearest neighbor search in large databases of high-dimensional vectors.
+- [second-candidate](https://github.com/marker68/second-candidate/tree/master), An implementation of the state-of-the-art methods of product quantization based ANN search.
+- [hdidx](https://github.com/hdidx/hdidx), pproximate Nearest Neighbor (ANN) search for high-dimensional data, [hdidx-eval](https://github.com/hdidx/hdidx-eval/blob/master/eval_indexer.py).
+
+### OCR
+- [端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
+- [基于Lstm、CTC的验证码识别](http://ranjun.me/2016/08/17/ocr-recaptcha/)
+
+### 深度学习工具
+- [Netscope](http://ethereon.github.io/netscope/quickstart.html), A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
+
+### 计算机视觉与数据分析
+- [ccv](https://github.com/liuliu/ccv), C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
+- [vlfeat](https://github.com/vlfeat/vlfeat), An open library of computer vision algorithms.
+- [flann](https://github.com/mariusmuja/flann), Fast Library for Approximate Nearest Neighbors.
+- [PCV](https://github.com/jesolem/PCV), Open source Python module for computer vision.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn), scikit-learn: machine learning in Python.
+- [SimpleCV](https://github.com/sightmachine/SimpleCV), The Open Source Framework for Machine Vision.
+- [pydata-book](https://github.com/pydata/pydata-book), Materials and IPython notebooks for "Python for Data Analysis".
+- [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials), Deep Learning Tutorial notes and code. See the wiki for more info.
+- [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata), A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [decaf-release](https://github.com/UCB-ICSI-Vision-Group/decaf-release), Decaf is DEPRECATED! The new framework that has all the good things: GPU computation, full train/test scripts, native C++, and an active community!
+- [bgslibrary](https://github.com/andrewssobral/bgslibrary), 背景减除.
+- [handDetectionCV](https://github.com/simena86/handDetectionCV), Hand Detection using Color Recognition.
+- [pyimreg](https://github.com/vishwa91/pyimreg), Simple Image registration using SIFT and RANSAC algorithm.
+- [spearmint](https://github.com/JasperSnoek/spearmint), Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012.
+- [mahotas](https://github.com/luispedro/mahotas), Computer Vision in Python.
+- [feature-extraction](https://github.com/adikhosla/feature-extraction), matlab版特征提取。
 
 ### 前端工具
 - [codyhouse](http://codyhouse.co/),有很多的demo，使用起来非常的方便，[CodyHouse的github](https://github.com/CodyHouse)。
@@ -48,24 +89,6 @@
 
 ### 静态页面生成器
 - [wintersmith](https://github.com/jnordberg/wintersmith), A flexible static site generator.
-
-### 计算机视觉与数据分析
-- [ccv](https://github.com/liuliu/ccv), C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
-- [vlfeat](https://github.com/vlfeat/vlfeat), An open library of computer vision algorithms.
-- [flann](https://github.com/mariusmuja/flann), Fast Library for Approximate Nearest Neighbors.
-- [PCV](https://github.com/jesolem/PCV), Open source Python module for computer vision.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn), scikit-learn: machine learning in Python.
-- [SimpleCV](https://github.com/sightmachine/SimpleCV), The Open Source Framework for Machine Vision.
-- [pydata-book](https://github.com/pydata/pydata-book), Materials and IPython notebooks for "Python for Data Analysis".
-- [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials), Deep Learning Tutorial notes and code. See the wiki for more info.
-- [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata), A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [decaf-release](https://github.com/UCB-ICSI-Vision-Group/decaf-release), Decaf is DEPRECATED! The new framework that has all the good things: GPU computation, full train/test scripts, native C++, and an active community!
-- [bgslibrary](https://github.com/andrewssobral/bgslibrary), 背景减除.
-- [handDetectionCV](https://github.com/simena86/handDetectionCV), Hand Detection using Color Recognition.
-- [pyimreg](https://github.com/vishwa91/pyimreg), Simple Image registration using SIFT and RANSAC algorithm.
-- [spearmint](https://github.com/JasperSnoek/spearmint), Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper: Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams. Advances in Neural Information Processing Systems, 2012.
-- [mahotas](https://github.com/luispedro/mahotas), Computer Vision in Python.
-- [feature-extraction](https://github.com/adikhosla/feature-extraction), matlab版特征提取。
 
 ### Python相关
 - [pyspider](https://github.com/binux/pyspider), 爬虫框架。
@@ -145,19 +168,3 @@
 
 ### 编程风格指南
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide), Google 开源项目风格指南 (中文版)。
-
-### 图像检索之哈希
-- [mih](https://github.com/norouzi/mih), Fast exact nearest neighbor search in Hamming distance on binary codes with Multi-index hashing.
-- [min-loss-hashing](https://github.com/marklar/min-loss-hashing), matlab版及Python版的LSH.
-- [E2LSH](http://www.mit.edu/~andoni/LSH/), LSH Algorithm and Implementation.
-
-### 图像检索之PQ
-- [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan). The PQ Fast Scan project is a C++11 implementation of fast vector scanning techniques for nearest neighbor search in large databases of high-dimensional vectors.
-- [second-candidate](https://github.com/marker68/second-candidate/tree/master), An implementation of the state-of-the-art methods of product quantization based ANN search.
-
-### OCR
-- [端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
-- [基于Lstm、CTC的验证码识别](http://ranjun.me/2016/08/17/ocr-recaptcha/)
-
-### 深度学习工具
-- [Netscope](http://ethereon.github.io/netscope/quickstart.html), A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
