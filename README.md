@@ -1,40 +1,40 @@
 # my-awesome-awesomeness
 
-##前端工具
+### 前端工具
 - [codyhouse](http://codyhouse.co/),有很多的demo，使用起来非常的方便，[CodyHouse的github](https://github.com/CodyHouse)。
 - [jqueryscript](http://www.jqueryscript.net/),很多优秀的js插件都可以在上面找到。
 
-##shell
+### shell
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)，文艺编程员必备的shell。
 
-##歌曲
+### 歌曲
 - 搬砖怎么没有歌？[awesome-music-for-programming](https://github.com/Yaoshicn/awesome-music-for-programming)
 
-##python
+### python
 - [PYTHON资源入口汇总](http://www.wklken.me/posts/2013/08/27/python-sources.html)
 - [OverFeat](https://github.com/sermanet/OverFeat), OverFeat is a Convolutional Network-based image classifier and feature extractor.
 - [noccn](https://github.com/dnouri/noccn), Utilities for Alex Krizhevsky's cuda-convnet.
 - [morb](https://github.com/benanne/morb), Modular Restricted Boltzmann Machine (RBM) implementation using Theano.
 - [pylearn2](https://github.com/lisa-lab/pylearn2), A Machine Learning library based on Theano.
 
-## C++
+### C++
 - [ccv](https://github.com/liuliu/ccv), C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 - [Theano](https://github.com/Theano/Theano), 很多python的CNN都用到了这个包。
 
-## 优秀博客
+### 优秀博客
 - [pluskid](http://freemind.pluskid.org/), 里面对算法的分析很到位。
 - [Liang Bo Wang](http://blog.liang2.tw/)，技术博客。
 
-## HTML5 app框架
+### HTML5 app框架
 - [ionic](https://github.com/driftyco/ionic), Advanced HTML5 mobile development framework and SDK. Build incredible hybrid apps with web technologies you already know and love. Best friends with AngularJS.
 - [ionicons](https://github.com/driftyco/ionicons), The premium icon font for Ionic.
 - [generator-ionic](https://github.com/diegonetto/generator-ionic)(Build hybrid mobile apps using the Ionic Framework).
 - [ionic-site](https://github.com/driftyco/ionic-site), Repo for the ionicframework.com site.
 
-## 代码搜集
+### 代码搜集
 - [Matlab](http://cn.mathworks.com/matlabcentral/),可以在上搜集一些比较好得matlab代码
 
-## OS X
+### OS X
 - [alfred-workflows](https://github.com/willfarrell/alfred-workflows)，alfred，好东西。
 - [https://github.com/iCHAIT/awesome-osx](awesome-osx), A curated list of awesome applications, softwares, tools and shiny things for OS X.
 
@@ -46,7 +46,7 @@
 - [jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap), The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.
 - [left](https://github.com/holman/left), Left is a clean, whitespace-happy layout for Jekyll.
 
-###静态页面生成器
+### 静态页面生成器
 - [wintersmith](https://github.com/jnordberg/wintersmith), A flexible static site generator.
 
 ### 计算机视觉与数据分析
@@ -67,7 +67,7 @@
 - [mahotas](https://github.com/luispedro/mahotas), Computer Vision in Python.
 - [feature-extraction](https://github.com/adikhosla/feature-extraction), matlab版特征提取。
 
-###Python相关
+### Python相关
 - [pyspider](https://github.com/binux/pyspider), 爬虫框架。
 - [bokeh](https://github.com/bokeh/bokeh), Interactive Web Plotting for Python.
 - [codeparkshare](https://github.com/Yixiaohan/codeparkshare), Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐.
@@ -149,13 +149,15 @@
 ### 图像检索之哈希
 - [mih](https://github.com/norouzi/mih), Fast exact nearest neighbor search in Hamming distance on binary codes with Multi-index hashing.
 - [min-loss-hashing](https://github.com/marklar/min-loss-hashing), matlab版及Python版的LSH.
+- [E2LSH](http://www.mit.edu/~andoni/LSH/), LSH Algorithm and Implementation.
+
+### 图像检索之PQ
+- [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan). The PQ Fast Scan project is a C++11 implementation of fast vector scanning techniques for nearest neighbor search in large databases of high-dimensional vectors.
+- [second-candidate](https://github.com/marker68/second-candidate/tree/master), An implementation of the state-of-the-art methods of product quantization based ANN search.
 
 ### OCR
-
 - [端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
 - [基于Lstm、CTC的验证码识别](http://ranjun.me/2016/08/17/ocr-recaptcha/)
 
 ### 深度学习工具
-
-- [Netscope](http://ethereon.github.io/netscope/quickstart.html). A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
-- [E2LSH](http://www.mit.edu/~andoni/LSH/), LSH Algorithm and Implementation.
+- [Netscope](http://ethereon.github.io/netscope/quickstart.html), A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
