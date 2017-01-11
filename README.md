@@ -152,5 +152,9 @@
 
 ### OCR
 
-[端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
-[基于Lstm、CTC的验证码识别](http://ranjun.me/2016/08/17/ocr-recaptcha/)
+- [端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
+- [基于Lstm、CTC的验证码识别](http://ranjun.me/2016/08/17/ocr-recaptcha/)
+
+### 深度学习工具
+
+- [Netscope](http://ethereon.github.io/netscope/quickstart.html). A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
