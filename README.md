@@ -158,3 +158,4 @@
 ### 深度学习工具
 
 - [Netscope](http://ethereon.github.io/netscope/quickstart.html). A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
+- [E2LSH](http://www.mit.edu/~andoni/LSH/), LSH Algorithm and Implementation.
