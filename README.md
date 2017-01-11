@@ -1,8 +1,9 @@
 # 个人使用资源汇总
 
-### 图像特征提取
+### 图像传统特征提取
 - [fishercaffe](https://github.com/MartinHjelm/fishercaffe), C++ training and testing code for an SVM using Vlfeat fisher vectors together with possible other features.
 - [DBow3](https://github.com/rmsalinas/DBow3), Improved version of DBow2.
+- [CudaSift](https://github.com/Celebrandil/CudaSift/tree/master), A CUDA implementation of SIFT for NVidia GPUs.
 
 ### 图像检索之哈希
 - [FALCONN](https://github.com/FALCONN-LIB/FALCONN), LSH哈希，数据依赖实现方法，目前不支持数据动态插入。
@@ -15,6 +16,11 @@
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan). The PQ Fast Scan project is a C++11 implementation of fast vector scanning techniques for nearest neighbor search in large databases of high-dimensional vectors.
 - [second-candidate](https://github.com/marker68/second-candidate/tree/master), An implementation of the state-of-the-art methods of product quantization based ANN search.
 - [hdidx](https://github.com/hdidx/hdidx), pproximate Nearest Neighbor (ANN) search for high-dimensional data, [hdidx-eval](https://github.com/hdidx/hdidx-eval/blob/master/eval_indexer.py).
+- [Product-Quantization](https://github.com/essishen93/Product-Quantilization), The implementation of the paper " Product quantization for nearest neighbor search".
+
+### 倒排索引
+- [invindex.py](https://github.com/matteobertozzi/blog-code/blob/master/py-inverted-index/invindex.py), 文本倒排索引。
+- [py-inverted-index](https://github.com/imatge-upc/retrieval-2016-icmr/tree/master/lib/py-inverted-index), Fast in-memory inverted index.
 
 ### OCR
 - [端到端的OCR：LSTM＋CTC的实现](http://www.jianshu.com/p/4fadf629895b/comments/3441685)
