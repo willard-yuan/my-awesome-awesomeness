@@ -28,9 +28,13 @@
 
 ### 深度学习工具
 - [Netscope](http://ethereon.github.io/netscope/quickstart.html), A web-based tool for visualizing neural network architectures (or technically, any directed acyclic graph). It currently supports Caffe's prototxt format.
+- [A Guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/).
 
 ### 深度学习网络模型
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks), Deep Residual Learning for Image Recognition.
+
+### 数据可视化研究
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research).
 
 ### 计算机视觉与数据分析
 - [ccv](https://github.com/liuliu/ccv), C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
